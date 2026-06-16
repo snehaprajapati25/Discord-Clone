@@ -38,10 +38,6 @@ Discord-Landing-Page/
 │   └── other images/videos
 ```
 
-## 📸 Preview
-
-A clone of Discord's landing page showcasing modern UI design and frontend development skills.
-
 ## 📌 Future Improvements
 
 - Make the website fully responsive for mobile devices
