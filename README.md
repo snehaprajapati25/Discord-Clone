@@ -1,1 +1,1 @@
-# Discord-Clone
+# Discord Landing Page Clone
